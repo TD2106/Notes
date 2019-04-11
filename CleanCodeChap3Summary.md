@@ -2,7 +2,7 @@
 
 Chapter 3 is about function
 
-  - The main point I learn in chapter 3 is that a function should only have one single purpose, and the function should do it well
+  - The main point I learn in chapter 3 is that a function should only have one single purpose, and the function should do it well, and be SMALL
   - A function should have a maximum of 20 lines of code
   - Don't worry about creating so many functions, the compiler and the machine are fast enough to handle the call satack
   - A function should have only one if else or try catch block, as in as little indenting as possible
