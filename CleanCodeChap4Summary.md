@@ -10,6 +10,11 @@
   - Try/catch, if/else should be the first and last keyword for the function, no other code before and after them
   - Inside each try catch, if else block should be a function
   - We should write predicate function for use as condition inside if else clause
-  - Avoid the use of switch, instead use interface to decouple the dependency directly
+  - Avoid the use of switch, instead use interface, factory to decouple the dependency
   - Then comes some of the part which I don't understand like dependency injection, maybe I haven't worked on a system of such scale to understand
+  - Ask don't tell. Just ask the object to do something for you, don't tell it to do alot, for better decoupling
+  - I didn't understand much about temporal coupling, so maybe I'll come back later
+  - No side effect
+  - Don't overuse early return
+  - Prefer throw error to return error code or return null
   
